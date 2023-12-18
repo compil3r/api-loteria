@@ -3,7 +3,7 @@
 
 Olá, bem vindo(a) a API de loterias do SENAC. Nesta API você encontrará dados fictícios sobre loterias.
 
-Para acessar os dados você deve utilizar o endpoint `/sorteio/[tipo]`. Como `[tipo]` você pode utilizar:
+Para acessar os dados você deve utilizar o endpoint `http://loteria.cronogramatds.online/sorteio/[tipo]`. Como `[tipo]` você pode utilizar:
 
 - megasena
 - quina
@@ -13,7 +13,7 @@ Para acessar os dados você deve utilizar o endpoint `/sorteio/[tipo]`. Como `[t
 
 Cada um dos sorteios retornará:
 ```http
-  GET /sorteio/[tipo]
+  GET http://loteria.cronogramatds.online/sorteio/[tipo]
 ```
 
 | Parâmetro   | Tipo       | Descrição                           |
