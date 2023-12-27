@@ -1,7 +1,7 @@
 
 # Loterias do SENAC
 
-Olá, bem vindo(a) a API de loterias do SENAC. Nesta API você encontrará dados fictícios sobre loterias.
+Olá, bem vindo(a) a API de loterias do IFSUL. Nesta API você encontrará dados fictícios sobre loterias.
 
 Para acessar os dados você deve utilizar o endpoint `http://loteria.cronogramatds.online/sorteio/[tipo]`. Como `[tipo]` você pode utilizar:
 
